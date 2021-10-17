@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m Vishwak balaji
+# 👋 Hi, I’m Vishwak balaji
 
 
 <!---
