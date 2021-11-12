@@ -1,4 +1,4 @@
-- ## 👋 Hi, I’m Vishwak balaji, an aspiring data science student
+- ## 👋 Hi, I’m Vishwak balaji, an aspiring data scientist
 - ## 👀 I’m interested in Machine learning, Statistics, AI...
 - ## 🌱 I’m currently learning all about data science and trying share my thoughts and experiments through this platform.
 
