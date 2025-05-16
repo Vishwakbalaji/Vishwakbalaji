@@ -12,4 +12,4 @@
 - ⚙️ IoT Predictive Maintenance Model
 
 📬 I’m actively looking for full-time roles in **Data Science, Machine Learning, or Analytics**.  
-Let’s connect: [LinkedIn →](https://www.linkedin.com/in/vishwak-balaji-jayasankar-8a384018a/)
+Let’s connect: [LinkedIn →](https://www.linkedin.com/in/vishwak-balaji-8a384018a/)
